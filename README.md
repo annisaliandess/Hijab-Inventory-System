@@ -38,9 +38,9 @@ Semua akun menggunakan kata sandi bawaan: `password`
 
 | Role | Nama Pengguna | Alamat Email | Password | Hak Akses Utama |
 | :--- | :--- | :--- | :--- | :--- |
-| **Admin** | Owner Admin Hijab | `admin@tokohijab.com` | `password` | Akses penuh CRUD, Eksekutif Dashboard, Stok Rendah |
-| **Staff** | Kasir / Staff Toko | `staff@tokohijab.com` | `password` | POS Kasir, Restock Pemasok, Pemantauan Stok |
-| **Customer** | Siti Aisyah | `pelanggan@gmail.com` | `password` | Self-Checkout Katalog, Riwayat Pesanan Pribadi |
+| **Admin** | Owner Admin Hijab | `admin@dezzana.hijab.com` | `password` | Akses penuh CRUD, Eksekutif Dashboard, Stok Rendah |
+| **Staff** | Kasir / Staff Toko | `staff@dezzana.hijab.com` | `password` | POS Kasir, Restock Pemasok, Pemantauan Stok |
+| **Customer** | Siti Aisyah | `pelanggan@dezzana.hijab.com` | `password` | Self-Checkout Katalog, Riwayat Pesanan Pribadi |
 
 *Catatan: Pengunjung umum dapat mendaftar akun baru melalui tombol **"Daftar Akun Pelanggan"** pada halaman login.*
 

@@ -17,21 +17,21 @@ class DatabaseSeeder extends Seeder
         // 1. Akun 3 Role
         User::create([
             'name' => 'Owner Admin Hijab',
-            'email' => 'admin@tokohijab.com',
+            'email' => 'admin@dezzana.hijab.com',
             'password' => Hash::make('password'),
             'role' => 'admin',
         ]);
 
         User::create([
             'name' => 'Kasir / Staff Toko',
-            'email' => 'staff@tokohijab.com',
+            'email' => 'staff@dezzana.hijab.com',
             'password' => Hash::make('password'),
             'role' => 'staff',
         ]);
 
         User::create([
             'name' => 'Siti Aisyah (Pelanggan)',
-            'email' => 'pelanggan@gmail.com',
+            'email' => 'pelanggan@dezzana.hijab.com',
             'password' => Hash::make('password'),
             'role' => 'pelanggan',
         ]);

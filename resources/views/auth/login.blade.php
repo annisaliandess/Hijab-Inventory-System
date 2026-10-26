@@ -93,7 +93,7 @@
                     Alamat Email
                 </label>
                 <input type="email" id="email" name="email" value="{{ old('email') }}" required autofocus
-                    placeholder="nama@tokohijab.com"
+                    placeholder="nama@dezzana.hijab.com"
                     class="w-full px-3.5 py-2.5 rounded-xl border border-slate-200 bg-white text-slate-800 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-baby-400 focus:border-baby-600 transition text-xs font-medium">
             </div>
 
