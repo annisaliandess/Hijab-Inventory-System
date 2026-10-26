@@ -30,7 +30,7 @@ class DatabaseSeeder extends Seeder
         ]);
 
         User::create([
-            'name' => 'Siti Aisyah (Pelanggan)',
+            'name' => 'Dezzana (Pelanggan)',
             'email' => 'pelanggan@dezzanahijab.com',
             'password' => Hash::make('password'),
             'role' => 'pelanggan',
