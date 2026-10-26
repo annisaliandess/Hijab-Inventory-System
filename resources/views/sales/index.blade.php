@@ -2,7 +2,7 @@
 
 @section('title', 'Riwayat Transaksi Penjualan')
 @section('page-title', 'Riwayat Penjualan Kasir')
-@section('page-subtitle', 'Daftar seluruh nota transaksi penjualan dan rekapan kasir butik')
+@section('page-subtitle', 'Daftar seluruh nota transaksi penjualan dan rekapan kasir Dezzana Hijab')
 
 @section('header-actions')
 <a href="{{ route('sales.create') }}" class="px-4 py-2 bg-baby-600 hover:bg-baby-700 text-white font-semibold text-xs rounded-xl shadow-sm transition flex items-center gap-1.5">

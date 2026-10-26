@@ -54,7 +54,7 @@
                     class="w-full px-4 py-2.5 rounded-xl border border-slate-200 bg-slate-50/60 text-sm focus:bg-white focus:outline-none focus:ring-2 focus:ring-baby-400 focus:border-baby-600 transition">
             </div>
 
-            <!-- Baris 3: Bahan & Warna (Ciri Khas Butik Hijab) -->
+            <!-- Baris 3: Bahan & Warna (Ciri Khas Dezzana Hijab) -->
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
                     <label for="material" class="block text-xs font-semibold text-slate-700 uppercase tracking-wider mb-1.5">

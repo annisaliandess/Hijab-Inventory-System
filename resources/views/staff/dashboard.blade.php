@@ -61,7 +61,7 @@
         </div>
         <div>
             <h3 class="font-bold text-sm text-navy-950 group-hover:text-baby-600 transition">Pelayanan Kasir (POS)</h3>
-            <p class="text-xs text-slate-500 mt-1">Hitung pesanan pelanggan butik, input metode pembayaran, dan cetak struk nota belanja.</p>
+            <p class="text-xs text-slate-500 mt-1">Hitung pesanan pelanggan, input metode pembayaran, dan cetak struk nota belanja.</p>
         </div>
     </a>
 

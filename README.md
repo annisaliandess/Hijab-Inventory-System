@@ -1,6 +1,6 @@
 # Dezzana Hijab - Inventory & Sales Management System
 
-Sistem manajemen inventaris butik hijab dan point of sales (POS) terintegrasi berbasis **Laravel 12**, dilengkapi dengan otentikasi multi-peran (*Multi-Role RBAC*), *pessimistic locking* untuk pencegahan *overselling*, isolasi data transaksi via *Policy*, serta katalog belanja *self-checkout* untuk pelanggan.
+Sistem manajemen inventaris Dezzana Hijab dan point of sales (POS) terintegrasi berbasis **Laravel 12**, dilengkapi dengan otentikasi multi-peran (*Multi-Role RBAC*), *pessimistic locking* untuk pencegahan *overselling*, isolasi data transaksi via *Policy*, serta katalog belanja *self-checkout* untuk pelanggan.
 
 ---
 

@@ -84,7 +84,7 @@
                 <!-- Input Nama Pelanggan -->
                 <div class="mb-4">
                     <label class="block text-[11px] font-semibold text-slate-300 uppercase tracking-wider mb-1.5">Nama Pelanggan</label>
-                    <input type="text" name="customer_name" required value="{{ old('customer_name', 'Pelanggan Butik') }}" placeholder="Contoh: Ibu Fatimah" class="w-full px-3.5 py-2 bg-navy-900 border border-slate-700 rounded-xl text-xs text-white focus:outline-none focus:ring-2 focus:ring-baby-400 font-medium">
+                    <input type="text" name="customer_name" required value="{{ old('customer_name', 'Pelanggan Umum') }}" placeholder="Contoh: Ibu Fatimah" class="w-full px-3.5 py-2 bg-navy-900 border border-slate-700 rounded-xl text-xs text-white focus:outline-none focus:ring-2 focus:ring-baby-400 font-medium">
                 </div>
 
                 <!-- Metode Pembayaran -->

@@ -2,7 +2,7 @@
     @extends('layouts.app')
 
     @section('title', 'Katalog Hijab')
-    @section('page-title', 'Koleksi Hijab Butik')
+    @section('page-title', 'Koleksi Dezzana Hijab')
     @section('page-subtitle', 'Daftar busana muslimah dan hijab dengan status ketersediaan stok real-time')
 
     @section('content')
@@ -12,7 +12,7 @@
         <div class="rounded-2xl bg-navy-950 text-white p-7 shadow-sm border border-slate-800 flex flex-col md:flex-row md:items-center justify-between gap-6">
             <div class="max-w-xl">
                 <span class="inline-block px-2.5 py-0.5 rounded-md bg-baby-500/20 border border-baby-400/30 text-baby-200 text-[11px] font-medium uppercase tracking-wider mb-2">
-                    Koleksi Butik
+                    Koleksi Hijab
                 </span>
                 <h3 class="font-serif text-2xl font-bold">
                     Koleksi Hijab Pilihan
@@ -251,7 +251,7 @@
                         <label class="border border-slate-200 rounded-xl p-2.5 text-center cursor-pointer hover:border-baby-600 transition has-[:checked]:border-baby-600 has-[:checked]:bg-baby-50">
                             <input type="radio" name="payment_method" value="cash" class="sr-only">
                             <span class="block text-xs font-semibold text-slate-700">Tunai</span>
-                            <span class="text-[10px] text-slate-400 block">Bayar di Butik</span>
+                            <span class="text-[10px] text-slate-400 block">Bayar di Toko</span>
                         </label>
                     </div>
                 </div>
@@ -371,7 +371,7 @@
                 <span class="w-9 h-9 rounded-xl bg-navy-950 text-white flex items-center justify-center font-serif text-lg font-bold">D</span>
                 <div>
                     <h1 class="font-serif text-base font-bold text-navy-950 leading-none">Dezzana Hijab</h1>
-                    <span class="text-[10px] text-baby-700 font-semibold tracking-widest uppercase">Modest Boutique</span>
+                    <span class="text-[10px] text-baby-700 font-semibold tracking-widest uppercase">Hijab Collection</span>
                 </div>
             </div>
             <div class="flex items-center gap-2">
@@ -387,7 +387,7 @@
         <main class="max-w-7xl mx-auto px-6 py-8">
             <div class="mb-6 flex flex-col md:flex-row md:items-center justify-between gap-4">
                 <div>
-                    <h2 class="font-serif text-2xl font-bold text-navy-950">Koleksi Hijab Butik</h2>
+                    <h2 class="font-serif text-2xl font-bold text-navy-950">Koleksi Dezzana Hijab</h2>
                     <p class="text-xs text-slate-500 mt-0.5">Silakan masuk atau daftar akun pelanggan untuk melakukan pemesanan.</p>
                 </div>
 

@@ -2,14 +2,14 @@
 
 @section('title', 'Beranda Pelanggan')
 @section('page-title', 'Selamat Datang di Dezzana Hijab')
-@section('page-subtitle', 'Koleksi busana muslimah dan hijab elegan kualitas butik')
+@section('page-subtitle', 'Koleksi busana muslimah dan hijab elegan')
 
 @section('content')
 <!-- Banner Sambutan Pelanggan -->
 <div class="rounded-2xl bg-navy-950 text-white p-7 mb-8 border border-slate-800 shadow-sm flex flex-col md:flex-row md:items-center justify-between gap-6">
     <div class="max-w-xl">
         <span class="inline-block px-2.5 py-0.5 rounded-md bg-baby-500/20 border border-baby-400/30 text-baby-200 text-[11px] font-medium tracking-wide uppercase mb-2">
-            Pelanggan Butik
+            Pelanggan Dezzana Hijab
         </span>
         <h2 class="font-serif text-2xl font-bold">
             Selamat Datang, {{ auth()->user()->name }}
@@ -28,7 +28,7 @@
     <div class="hidden md:block text-right">
         <div class="p-5 rounded-2xl bg-white/5 border border-white/10 text-center">
             <span class="text-xs text-baby-200 uppercase tracking-widest font-semibold block">Dezzana Hijab</span>
-            <span class="text-xs text-slate-400 mt-1 block">Modest Wear & Boutique</span>
+            <span class="text-xs text-slate-400 mt-1 block">Dezzana Hijab Collection</span>
         </div>
     </div>
 </div>

@@ -31,7 +31,7 @@
             </div>
             <h4 class="font-serif text-base font-bold text-navy-950">Belum Ada Pesanan</h4>
             <p class="text-slate-500 text-xs mt-1 max-w-sm mx-auto">
-                Anda belum melakukan pembelian hijab. Temukan berbagai koleksi hijab berkualitas butik sekarang.
+                Anda belum melakukan pembelian hijab. Temukan berbagai koleksi Dezzana Hijab sekarang.
             </p>
             <div class="mt-4">
                 <a href="{{ route('katalog') }}" class="inline-flex items-center gap-2 px-4 py-2 bg-navy-950 hover:bg-baby-700 text-white font-semibold text-xs rounded-xl shadow-sm transition">

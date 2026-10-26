@@ -17,7 +17,7 @@
     <div class="p-5 border-b border-slate-100 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
         <div>
             <h3 class="font-bold text-navy-950 text-sm uppercase tracking-wider">Arsip Pembelian dari Pemasok</h3>
-            <p class="text-[11px] text-slate-400 mt-0.5">Daftar transaksi pengadaan stok untuk menjaga ketersediaan hijab butik</p>
+            <p class="text-[11px] text-slate-400 mt-0.5">Daftar transaksi pengadaan stok untuk menjaga ketersediaan Dezzana Hijab</p>
         </div>
 
         <!-- Form Filter & Pencarian -->

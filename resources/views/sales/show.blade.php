@@ -87,7 +87,7 @@
     <!-- Kartu Nota Transaksi -->
     <div id="printableReceipt" class="bg-white rounded-2xl p-8 border border-slate-200/80 shadow-sm">
         
-        <!-- Header Struk Butik -->
+        <!-- Header Struk Dezzana Hijab -->
         <div class="text-center pb-6 border-b border-dashed border-slate-200">
             <div class="w-10 h-10 mx-auto rounded-xl bg-navy-950 text-white flex items-center justify-center font-serif text-lg font-bold mb-2 shadow-sm">
                 D

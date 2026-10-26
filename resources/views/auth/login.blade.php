@@ -49,7 +49,7 @@
 
     <div class="w-full max-w-md bg-white rounded-2xl shadow-sm border border-slate-200/80 p-8 sm:p-10">
         
-        <!-- Header Butik Hijab -->
+        <!-- Header Dezzana Hijab -->
         <div class="text-center mb-6">
             <div class="inline-flex w-12 h-12 rounded-xl bg-navy-950 text-white items-center justify-center font-serif text-xl font-bold mb-3 shadow-sm">
                 <span class="text-baby-300">D</span>

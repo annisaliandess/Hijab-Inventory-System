@@ -15,7 +15,7 @@
             Selamat Datang, {{ auth()->user()->name }}
         </h2>
         <p class="text-slate-300 text-xs mt-1 max-w-xl leading-relaxed">
-            Sistem operasional butik aktif. Seluruh pencatatan transaksi terikat dengan integritas stok otomatis dan pembatasan hak akses berbasis peran.
+            Sistem operasional Dezzana Hijab aktif. Seluruh pencatatan transaksi terikat dengan integritas stok otomatis dan pembatasan hak akses berbasis peran.
         </p>
     </div>
 
@@ -156,7 +156,7 @@
         <div class="p-5 border-b border-slate-100 flex items-center justify-between">
             <div>
                 <h3 class="font-bold text-navy-950 text-xs uppercase tracking-wider">Transaksi Kasir Terkini</h3>
-                <p class="text-[11px] text-slate-400 mt-0.5">5 catatan penjualan terakhir di kasir butik</p>
+                <p class="text-[11px] text-slate-400 mt-0.5">5 catatan penjualan terakhir di kasir Dezzana Hijab</p>
             </div>
             <a href="{{ route('sales.index') }}" class="text-xs text-baby-600 font-semibold hover:underline">
                 Lihat Semua &rarr;

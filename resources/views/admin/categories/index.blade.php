@@ -16,7 +16,7 @@
                 </div>
                 <h3 class="font-serif text-base font-bold text-navy-950">Tambah Kategori</h3>
             </div>
-            <p class="text-xs text-slate-500 mb-5">Tambahkan kelompok koleksi hijab baru ke katalog butik.</p>
+            <p class="text-xs text-slate-500 mb-5">Tambahkan kelompok koleksi hijab baru ke katalog Dezzana Hijab.</p>
 
             <form action="{{ route('admin.categories.store') }}" method="POST" class="space-y-4">
                 @csrf
